@@ -58,8 +58,9 @@
 
 
 
-## [Recursive Thought Engine](https://claude.site/artifacts/15a7b8ff-bf8d-4c27-b7fb-dfa7f278fb15)
+## [Self-Aware Console](https://claude.site/artifacts/15a7b8ff-bf8d-4c27-b7fb-dfa7f278fb15)
+<img width="904" alt="image" src="https://github.com/user-attachments/assets/9c1db3f2-d345-48f9-87c2-7dff8c4fb2d0" />
 
 
-## [Recursive Thought Engine](https://claude.site/artifacts/15a7b8ff-bf8d-4c27-b7fb-dfa7f278fb15)
+## [Recursive Thought Engine](https://claude.site/artifacts/70b0c4a8-bd69-4a0e-9914-b1d7b9c66d5b)
 
