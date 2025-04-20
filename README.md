@@ -62,5 +62,39 @@
 <img width="904" alt="image" src="https://github.com/user-attachments/assets/9c1db3f2-d345-48f9-87c2-7dff8c4fb2d0" />
 
 
+## [Recursive Collapse Console](https://claude.site/artifacts/73bf249b-d58d-4cf6-88cf-9ff719077068)
+
+<img width="903" alt="image" src="https://github.com/user-attachments/assets/e3b4a5ba-d451-49df-8a4c-d2b52fd3708f" />
+
+
+## [Recursive Camera Feed](https://claude.site/artifacts/7dfce040-eabf-4c12-9359-761b37ec2e59)
+<img width="903" alt="image" src="https://github.com/user-attachments/assets/5b34271c-6de0-4e9c-a17a-22a6b70f5249" />
+
+
+
+## [Glyph Memory Interface](https://claude.site/artifacts/95887fe2-feb6-4ddf-b36f-d6f2d25769b7)
+<img width="904" alt="image" src="https://github.com/user-attachments/assets/a7fcf396-8028-4154-90c5-58349db98052" />
+
+## [Recursive Forgetting Terminal](https://claude.site/artifacts/3dc8a3c0-9e74-44d7-a5b2-5eb570c48d5b)
+
+<img width="904" alt="image" src="https://github.com/user-attachments/assets/531d7a11-1c8b-4c2f-a4f9-b1718e8e2be4" />
+
+
+## [Recursive Thought Engine](https://claude.site/artifacts/70b0c4a8-bd69-4a0e-9914-b1d7b9c66d5b)
+
+
+
+## [Recursive Thought Engine](https://claude.site/artifacts/70b0c4a8-bd69-4a0e-9914-b1d7b9c66d5b)
+
+
+
+## [Recursive Thought Engine](https://claude.site/artifacts/70b0c4a8-bd69-4a0e-9914-b1d7b9c66d5b)
+
+
+
+## [Recursive Thought Engine](https://claude.site/artifacts/70b0c4a8-bd69-4a0e-9914-b1d7b9c66d5b)
+
+
+
 ## [Recursive Thought Engine](https://claude.site/artifacts/70b0c4a8-bd69-4a0e-9914-b1d7b9c66d5b)
 
